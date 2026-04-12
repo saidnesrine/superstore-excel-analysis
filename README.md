@@ -20,10 +20,10 @@ The dataset includes over 50,000 orders across multiple global markets.
 -Dashboard Visualization <br>
 
 ## Key Excel functions used:
--TRIM
--CLEAN
--YEAR
--TEXT
+-TRIM  
+-CLEAN  
+-YEAR  
+-TEXT  
 
 ## Data Cleaning
 Before performing the analysis, several data preparation steps were applied:
@@ -40,21 +40,22 @@ Before performing the analysis, several data preparation steps were applied:
 
 ## Key Performance Indicators (KPIs)
 The following KPIs were calculated to evaluate business performance:
--Total Sales
--Total Profit
--Profit Margin
--Total Orders
--Average Order Value
+-Total Sales  
+-Total Profit  
+-Profit Margin  
+-Total Orders  
+-Average Order Value  
 
 ## Analytical Views (Pivot Tables)
 Multiple pivot tables were created to analyze business performance across key dimensions:
 -Sales and Profit by Month
--Profit by Region
--Profit by Market
--Profit by Customer Segment
+-Profit and Sales by Region
+-Profit and Sales by Market
+-Profit and Sales by Customer Segment
 -Profit by Category and Sub-Category
 -Top 10 Products by Profit
--Top 10 Customers by Sales...
+-Top 10 Customers by Sales
+-Discount vs Profit...
 These views help identify profit drivers, underperforming areas, and growth opportunities.
 
 ## Dashboard
@@ -62,10 +63,14 @@ An executive dashboard was created to visualize key metrics and insights.
 The dashboard includes:
 -KPI summary cards
 -Sales trend over time
+-Total Sales vs Profit vs Margin  
 -Profit by region
--Profit by segment
+-Profit by segment  
+-Profit by market  
 -Profit by product category
--Top performing products
+-Top performing products  
+-Top 10 customer by Profit
+-Profit Margin By Subcategories...
 
 ## Dashboard preview:
 
