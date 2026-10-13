@@ -1,4 +1,4 @@
-# superstore-excel-analysis
+# Superstore-Excel-Analysis
 
 This project analyzes the Global Superstore dataset using Microsoft Excel to identify key sales trends, profitability drivers, and business opportunities.
 The analysis includes data cleaning, pivot table analysis, KPI calculations, and an executive dashboard to support data-driven decision making.
@@ -59,39 +59,51 @@ Multiple pivot tables were created to analyze business performance across key di
 These views help identify profit drivers, underperforming areas, and growth opportunities.
 
 ## Dashboard
-An executive dashboard was created to visualize key metrics and insights.
-The dashboard includes:
--KPI summary cards
--Sales trend over time
--Total Sales vs Profit vs Margin  
--Profit by region
--Profit by segment  
--Profit by market  
--Profit by product category
--Top performing products  
--Top 10 customer by Profit
--Profit Margin By Subcategories...
+1. Global Overview Dashboard
+
+Provides an overview of sales, profit, profit margin, order count, monthly sales trends, regional performance, market profitability, and the relationship between discounts and profit.
+
+
+
+2. Product Analysis Dashboard
+
+Analyzes sales and profit by product category, highlights the top 10 products by profit, and compares profit margins across sub-categories.
+
+
+
+3. Customer Analysis Dashboard
+
+Compares customer segments by sales and profit, examines profit margins, and identifies the top 10 customers by profit.
+
 
 ## Dashboard preview:
 
+## Project Files
+
+Global_Superstore_2016_Analysis.xlsx — Excel workbook containing the analysis and dashboards.
+
+images/01_dashboard_global.png — Global Overview dashboard screenshot.
+
+images/02_dashboard_product.png — Product Analysis dashboard screenshot.
+
+images/03_dashboard_customer.png — Customer Analysis dashboard screenshot.
+
 ## Key Business Insights
-Profitability varies significantly across regions, with Europe generating stronger margins compared to several other markets.
-- High discount levels are strongly associated with negative profit margins, indicating that aggressive discounting strategies may be harming profitability.
-- The Corporate customer segment shows the highest profit margin among all customer segments.
-- A small number of products generate a large portion of total profit, highlighting opportunities to prioritize these products in sales and marketing strategies.
-- Several product sub-categories generate consistent losses despite having strong sales volumes.
-- Technology is the most profitable category.
-- The Tables sub-category generates negative profit margins despite high sales.
-- The West region shows the highest profitability.
-- High discounts reduce profit margins significantly.
-- The top 10 customers generate a large share of revenue.
+-Profitability varies across regions and markets. The analysis highlights differences in regional performance and opportunities to investigate underperforming areas.
+-Higher discount levels are associated with lower profitability, and some heavily discounted transactions generate negative profits.
+-The Corporate segment shows the highest profit margin among the customer segments analyzed, making it an important segment to monitor and develop.
+-Technology is the most profitable product category, highlighting its contribution to overall business profitability.
+-The Tables sub-category generates negative profit despite its sales activity, suggesting a need to investigate pricing, discounting, and cost factors.
+-A relatively small group of customers and products contributes substantially to business performance, making customer profitability and product contribution analysis valuable for prioritizing commercial efforts.
+
 ## Business Recommendations
 - Based on the analysis, the following recommendations can improve business performance:
-- Review and optimize discount policies to protect profit margins
-- Focus marketing and sales efforts on high-margin product categories
-- Reassess pricing strategies for consistently unprofitable products
-- Strengthen relationships with high-value corporate customers
-- Improve operational efficiency in underperforming markets
+- Review high-discount transactions and establish discount thresholds that protect profitability while remaining competitive.
+- Focus sales and marketing efforts on products and categories that contribute strongly to total profit, while monitoring their sales performance.
+- Investigate the Tables sub-category and other loss-making products to identify whether pricing, discounts, shipping costs, or other factors explain their negative profitability.
+- Strengthen relationships with profitable Corporate customers and identify opportunities to improve customer retention and long-term value.
+- Investigate underperforming regions and markets to identify opportunities to improve margins, pricing, and operational efficiency.
+- Track sales, total profit, profit margin, and discount levels regularly to evaluate the impact of business decisions.
 
 ## Conclusion
 This project demonstrates how Excel can be used as a powerful business intelligence tool to transform raw transactional data into actionable insights.
