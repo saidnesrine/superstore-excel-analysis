@@ -101,11 +101,18 @@ Global_Superstore_2016_Analysis.xlsx — Excel workbook containing the analysis 
 
 https://docs.google.com/spreadsheets/d/1mSk3Meq0afiTlj2PLFklihpodBPANB6P/edit?usp=sharing&ouid=101613651584346671550&rtpof=true&sd=true
 
-images/01_dashboard_global.png — Global Overview dashboard.
 
-images/02_dashboard_product.png — Product Analysis dashboard.
+### Global Overview Dashboard
+![Global Dashboard](images/01_dashboard_global.png)
 
-images/03_dashboard_customer.png — Customer Analysis dashboard.
+
+
+### Product Analysis Dashboard
+![Product Dashboard](images/02_dashboard_product.png)
+
+
+### Customer Analysis Dashboard
+![Customer Dashboard](images/03_dashboard_customer.png)
 
 - Important: 
 Download the workbook and open it in Microsoft Excel to access all interactive features, including slicers, PivotTables, and PivotCharts. Google Sheets may not fully support these Excel features.
