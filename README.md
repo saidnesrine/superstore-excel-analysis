@@ -97,7 +97,9 @@ Based on the analysis, the following recommendations can improve business perfor
 
 ## Project Files
 
-Global_Superstore_2016_Analysis.xlsx — Excel workbook containing the analysis and dashboards.
+Global_Superstore_2016_Analysis.xlsx — Excel workbook containing the analysis and dashboards:
+
+https://docs.google.com/spreadsheets/d/1mSk3Meq0afiTlj2PLFklihpodBPANB6P/edit?usp=sharing&ouid=101613651584346671550&rtpof=true&sd=true
 
 images/01_dashboard_global.png — Global Overview dashboard.
 
@@ -105,6 +107,10 @@ images/02_dashboard_product.png — Product Analysis dashboard.
 
 images/03_dashboard_customer.png — Customer Analysis dashboard.
 
+- Important: 
+Download the workbook and open it in Microsoft Excel to access all interactive features, including slicers, PivotTables, and PivotCharts. Google Sheets may not fully support these Excel features.
+
+Screenshots of the dashboards are available below for a quick preview.
 
 ## Conclusion
 This project demonstrates how Excel can be used as a powerful business intelligence tool to transform raw transactional data into actionable insights.
